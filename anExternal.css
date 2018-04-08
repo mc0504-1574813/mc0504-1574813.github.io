@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    font-family: arial;
+    font-size: 150%;
+}
+p {
+    color: darkred;
+    font-size: 130%;
+}
+img {
+	float: right;
+}
